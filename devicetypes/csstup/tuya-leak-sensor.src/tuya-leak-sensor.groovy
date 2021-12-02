@@ -30,7 +30,7 @@
  * 
  *
  * Get updates from:
- * https://github.com/csstup/SmartThings-CSS/blob/master/devicetypes/csstup/tuya-leak-sensor.src/tuya-leak-sensor.groovy 
+ * https://github.com/csstup/Hubitat-CSS/blob/main/devicetypes/csstup/tuya-leak-sensor.src/tuya-leak-sensor.groovy
  *
  * Original DTH code/concepts taken from SmartSense Moisture Sensor and ported to Hubitat
  *
